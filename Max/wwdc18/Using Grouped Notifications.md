@@ -4,11 +4,6 @@ https://developer.apple.com/videos/play/wwdc2018/711/
 
 
 
-![22](https://user-images.githubusercontent.com/111475243/191217113-2ce4263e-45d4-49a8-b646-0271d56f8dc5.jpeg)
-
-
-
-
 
 
 
