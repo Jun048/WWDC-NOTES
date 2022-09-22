@@ -8,3 +8,6 @@ UIKIt및 AppKit의 텍스트 컨트롤은 TextKit 위에 구축된다 -> 레이�
 TextKit은 Core Text, Core Graphics과 같은 기술을 결합하여 앱이 텍스트를 표시하는 것을 간단하고 매끄럽게 만든다
 
 
+![TextKit](https://user-images.githubusercontent.com/111475243/191688026-fc6e5e85-f101-4872-a589-4dcc697c2954.png)
+
+
