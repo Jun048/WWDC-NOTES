@@ -49,3 +49,22 @@ grouped notifications에 대한 3가지 세팅 (설정 > 해당 앱으로 이동
 - 끔 : 각 앱에 대한 각 notification이 개별적으로 보여지는 ios12 이전의 방식
 
 
+notification content extension
+
+설정하는 방법 : target을 새로 만들고 UNNotificationContentExtension을 채택?
+
+![333](https://user-images.githubusercontent.com/111475243/191634797-4e733a15-83b5-458d-90ea-49c1d6a928dc.jpeg)
+
+
+
+
+action을 설정하는 방법
+
+- action을 만들고 그 액션들을 담는 identifier를 가지는 category를 만든다 -> catgory를 set해준다
+
+![ㅁㅁ](https://user-images.githubusercontent.com/111475243/191634954-34ce1d27-ccbf-4014-b2b0-89a35bc7f423.jpeg)
+
+![set](https://user-images.githubusercontent.com/111475243/191635092-378b406c-e916-42b0-bd4a-8d081143391a.jpeg)
+
+
+
