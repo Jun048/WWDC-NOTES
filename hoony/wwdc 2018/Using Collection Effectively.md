@@ -43,7 +43,7 @@ protocol Collection : Sequence {
 ```swift
 extension Collection {
   func everyOther(_ body: (Element) -> Void) {
-    let start = self.startInde
+    let start = self.startIndex
     let end = self.endIndex
       
     var iter = start
@@ -141,7 +141,7 @@ func increment(x: Int) -> Int {
 }
 
 let array = Array(0..<10)
-let inc/array = array.map(increment)
+let incArray = array.map(increment)
 print("Result:")
 print(incArray[0], incArray[4])
     
