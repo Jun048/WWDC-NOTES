@@ -68,7 +68,7 @@ notification content extension
 
 action을 설정하는 방법
 
-- action을 만들고 그 액션들을 담는 identifier를 가지는 category를 만든다 -> catgory를 set해준다
+- action을 만들고 그 액션들을 담는 identifier를 가지는 category를 만든다 -> catgory를 set해준다.
 
 ![ㅁㅁ](https://user-images.githubusercontent.com/111475243/191634954-34ce1d27-ccbf-4014-b2b0-89a35bc7f423.jpeg)
 
@@ -77,4 +77,17 @@ action을 설정하는 방법
 ![lc](https://user-images.githubusercontent.com/111475243/192700897-a307540a-b012-429e-a226-2db9bccd8055.jpeg)
 
 
+
+
+
+notification action은 일반적으로 제약 때문에 업데이트가 불가능했지만 이제는 액션을 다른 새로운 액션으로 변경 가능하다.
+
+![newaction](https://user-images.githubusercontent.com/111475243/192701526-ce150d66-1335-4834-aab3-be53a9aa75ce.jpeg)
+
+
+사용자가 Like버튼을 누르면, Unlike로 변경되어 다시 사용자가 좋아요를 취소하도록 만들기
+
+![uls](https://user-images.githubusercontent.com/111475243/192701812-d6fcd78f-018c-4aa3-9674-09c459bdd36b.jpeg)
+
+![cd](https://user-images.githubusercontent.com/111475243/192702013-09f2ab22-deab-4b2a-9c97-2cb70e40d860.jpeg)
 
