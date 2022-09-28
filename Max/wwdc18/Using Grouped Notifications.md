@@ -74,5 +74,7 @@ action을 설정하는 방법
 
 ![set](https://user-images.githubusercontent.com/111475243/191635092-378b406c-e916-42b0-bd4a-8d081143391a.jpeg)
 
+![lc](https://user-images.githubusercontent.com/111475243/192700897-a307540a-b012-429e-a226-2db9bccd8055.jpeg)
+
 
 
