@@ -17,9 +17,9 @@ Adding Delight to your iOS App
 
 ![1](https://user-images.githubusercontent.com/111475243/191682035-048ac24e-a251-45ae-ab52-d29b912087e4.png)
 
-- 연결 및 연결이 끊긴 경우
+- 연결 처리
 
-연결됨 : 
+연결 설정 방법 : 
 
   ```
   if let externalScreen = UIScreen.screens.last {
@@ -30,14 +30,26 @@ Adding Delight to your iOS App
 } 
 ```
 
-연결 끊김 :
+연결 끊김 받을때 :
 
  ```
  externalWindow.isHidden = true
  externalWindow = nil
  ```
- 
- 
+
+
+앱 동작 변경 : 
+
+```
+// In our Collection view selection callback
+if inSingleDisplayMode {
+    photoViewController.photo = photo
+    navigationController?.pushViewController(photoViewController, animated: true)
+   } else {
+     showOnExternalDisplay(photo)
+ }
+```
+
  
  2. 레이아웃 기반 UI
 
