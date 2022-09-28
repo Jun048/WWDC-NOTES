@@ -48,6 +48,7 @@ grouped notifications에 대한 3가지 세팅 (설정 > 해당 앱으로 이동
 - 앱별로 정리 : 기본적으로 모든 notification은 title, content, sender 별로 구분되지 않고, 앱별로 단일 그룹으로 누적.
 - 끔 : 각 앱에 대한 각 notification이 개별적으로 보여지는 ios12 이전의 방식
 
+--------------------
 
 notification content extension
 
@@ -64,7 +65,7 @@ notification content extension
 ![333](https://user-images.githubusercontent.com/111475243/191634797-4e733a15-83b5-458d-90ea-49c1d6a928dc.jpeg)
 
 
-
+-------------
 
 action을 설정하는 방법
 
@@ -74,10 +75,12 @@ action을 설정하는 방법
 
 ![set](https://user-images.githubusercontent.com/111475243/191635092-378b406c-e916-42b0-bd4a-8d081143391a.jpeg)
 
+
+
 ![lc](https://user-images.githubusercontent.com/111475243/192700897-a307540a-b012-429e-a226-2db9bccd8055.jpeg)
 
 
-
+-----------
 
 
 notification action은 일반적으로 제약 때문에 업데이트가 불가능했지만 이제는 액션을 다른 새로운 액션으로 변경 가능하다.
@@ -90,4 +93,14 @@ notification action은 일반적으로 제약 때문에 업데이트가 불가�
 ![uls](https://user-images.githubusercontent.com/111475243/192701812-d6fcd78f-018c-4aa3-9674-09c459bdd36b.jpeg)
 
 ![cd](https://user-images.githubusercontent.com/111475243/192702013-09f2ab22-deab-4b2a-9c97-2cb70e40d860.jpeg)
+
+--------
+
+
+Like 액션을 없애고, view에 하트모양 버튼 넣기
+
+![ph](https://user-images.githubusercontent.com/111475243/192702475-490d2e63-0533-4042-91df-250181e0f233.jpeg)
+
+![php](https://user-images.githubusercontent.com/111475243/192702555-b2900bfb-4ac7-42f4-8d12-52b4e61efdd0.jpeg)
+
 
